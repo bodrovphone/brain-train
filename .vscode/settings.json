@@ -1,0 +1,31 @@
+{
+  "editor.fontSize": 14,
+  "sync.gist": "code-settings-sync",
+  "window.title": "${activeEditorLong}${separator}${rootName}",
+  "workbench.colorTheme": "Monokai Dimmed",
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "files.associations": {
+    "*.xml": "xml"
+  },
+  "search.exclude": {
+    "**/node_modules": false
+  },
+  "search.location": "sidebar",
+  "files.insertFinalNewline": false,
+  "window.zoomLevel": 0,
+  "terminal.integrated.shell.osx": "zsh",
+  "workbench.editor.enablePreview": false,
+  "breadcrumbs.enabled": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "editor.formatOnPaste": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.cursorBlinking": "phase",
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.singleQuote": true,
+  "git.autofetch": true
+}
